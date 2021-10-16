@@ -6,6 +6,7 @@
 *-erc.txt
 kibot_errors.filter
 example_template.kibot.yaml
+*-cache.lib
 
 ## Output folder
 output/
