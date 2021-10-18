@@ -30,6 +30,7 @@ This board is a simple adapter to connect the motor controller and the LCDs to t
 
 ## NVIDIA Jetson Reference
 
+* Jetsonhacks [Jetson Xavier NX pinout](https://www.jetsonhacks.com/nvidia-jetson-xavier-nx-gpio-header-pinout/)
 * Jetsonhacks [Jetson Nano pinout](https://www.jetsonhacks.com/nvidia-jetson-nano-j41-header-pinout/)
 
 # Develop
