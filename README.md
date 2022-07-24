@@ -30,7 +30,7 @@ This board is a simple adapter to connect the motor controller and the LCDs to t
 * I2C bus 1 (Pin 3, 5)
   * oled left
   * adafruit motor control
-  * USB STUSB4500QTR
+  * USB [STUSB4500QTR](https://www.st.com/resource/en/datasheet/stusb4500.pdf)
 * 2 custom LEDS
   * GPIO Pin 31
   * GPIO Pin 33
@@ -39,6 +39,16 @@ This board is a simple adapter to connect the motor controller and the LCDs to t
 
 * Jetsonhacks [Jetson Xavier NX pinout](https://www.jetsonhacks.com/nvidia-jetson-xavier-nx-gpio-header-pinout/)
 * Jetsonhacks [Jetson Nano pinout](https://www.jetsonhacks.com/nvidia-jetson-nano-j41-header-pinout/)
+
+## STUSB4500QTR
+
+* [STUSB4500QTR](https://www.st.com/en/interfaces-and-transceivers/stusb4500.html)
+* [Evaluation board EVAL-SCS001V1](https://www.st.com/content/st_com/en/products/evaluation-tools/solution-evaluation-tools/psu-and-converter-solution-eval-boards/eval-scs001v1.html)
+* [ST Easy migration](https://www.st.com/resource/en/user_manual/um2586-fast-and-easy-migration-from-dc-barrel-to-typec-stmicroelectronics.pdf)
+* [Github STUSB4500](https://github.com/usb-c/STUSB4500)
+* [Sparkgun tutorial](https://learn.sparkfun.com/tutorials/power-delivery-board---usb-c-qwiic-hookup-guide)
+* [Hackaday tutorial](https://hackaday.com/2019/10/18/usb-power-delivery-for-all-the-things/)
+* [STM presentation](https://www.stmicroelectronics.com.cn/content/dam/AME/2019/technology-tour-2019/chicago/presentations/T1S3_Schaumburg_USB-Type-C_G.Gosciniak.pdf)
 
 # Develop
 
