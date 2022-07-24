@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/kicad
 # Edit at https://www.toptal.com/developers/gitignore?templates=kicad
 
+nanosaur-NX-shield-backups/
+
 ### Kibot output ###
 *-drc.txt
 *-erc.txt
@@ -31,6 +33,7 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+
 
 # Netlist files (exported from Eeschema)
 *.net
